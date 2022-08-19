@@ -5,7 +5,7 @@ In this project, I answered the data analytics questions I had posed using codes
 
 ## TOOLS USED
 
-I made use of Jupyter Notebook and Notepad app on windpws for this project.  You can install Jupyter Notebook [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/).  Notepad app is available in windows, any other text editor would do though.
+I made use of Jupyter Notebook and Notepad app on windpws for this project.</br>You can install Jupyter Notebook [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/).</br>Notepad app is available in windows, any other text editor would do though.
 
 ## DATASET  
 
